@@ -3607,3 +3607,10 @@ Exception rethrown at [0]:
 [2021.03.15-14.13.55:430][605]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000272CAC98200), frame # 223605
 [2021.03.15-14.13.55:432][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2021.03.15-14.13.55:471][606]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.03.15-17.58.35:944][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.03.15-17.58.53:535][768]LogUObjectHash: Compacting FUObjectHashTables data took   9.82ms
+[2021.03.15-17.58.53:677][768]LogSavePackage: Moving '../../../../Unreal Projects/ConvokeGame/Saved/ThirdPersonExampleMapBB6D638449C4599FABD64B9BAD2A828B.tmp' to '../../../../Unreal Projects/ConvokeGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.15-17.58.53:775][768]LogSavePackage: Moving '../../../../Unreal Projects/ConvokeGame/Saved/ThirdPersonExampleMap_BuiltData06C7F779456209848B26329EAAB9FD7B.tmp' to '../../../../Unreal Projects/ConvokeGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.15-17.58.53:817][768]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.15-17.58.53:818][768]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.15-17.58.53:818][768]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
