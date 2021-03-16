@@ -17797,3 +17797,5 @@ Make sure 'Blockout_C' has been compiled for  Camera Return
 [2021.03.16-11.15.43:133][205]MaterialEditorStats: Texture samplers: 8/16
 [2021.03.16-11.15.43:133][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(5)
 [2021.03.16-11.15.43:133][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.16-11.21.28:356][712]LogSlate: Window 'Source Control Login' being destroyed
+[2021.03.16-11.23.33:089][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
